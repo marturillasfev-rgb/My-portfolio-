@@ -1,1 +1,1 @@
-# My-portfolio-
+To solve the issue of students struggling to check their academic grades, I served as the developer and managed the full project lifecycle by gathering requirements, planning, designing, developing, and deploying the platform. Using Laravel, SQL, PHP, HTML, and CSS, I built a functional and accessible grading system that streamlined how students view their records and successfully attained a 50% satisfaction rate among users.
